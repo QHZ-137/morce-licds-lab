@@ -1,0 +1,5 @@
+model: MORCE-LICDS
+version: 8.0
+sigma_noise: 0.5
+threshold: 0.63
+status: hardened
